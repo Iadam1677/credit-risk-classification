@@ -11,8 +11,8 @@ Results
 •	F1-Score for High-Risk Loan (Class 1): 0.89
 Confusion Matrix:
 	         Predicted 0 (Healthy)	          Predicted 1(High-Risk)
-Actual 0      	18,765	                         50
-Actual 1    	  40	                             579
+Actual 0        	18,765	                             50
+Actual 1    	         40	                             579
 
 Summary:
 The logistic regression model performed exceptionally well, with an overall accuracy of 99%. It showed near-perfect results for predicting healthy loans, with a precision of 1.00 
